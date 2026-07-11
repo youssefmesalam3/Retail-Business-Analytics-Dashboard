@@ -119,11 +119,12 @@ This dashboard helps businesses:
 
 ## 📸 Dashboard Preview
 
-Add screenshots of the dashboard here.
+<img width="1316" height="730" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/bf415809-7b68-4939-b8a7-84a84f3afd03" />
+
 
 ## 👨‍💻 Author
 
 **Youssef Alaaeldin Mesalam**
 Data Analyst | Power BI Developer
 
-🔗 LinkedIn: [www.linkedin.com/in/youssef-mesalam]
+🔗 LinkedIn: https://www.linkedin.com/in/youssef-mesalam-a8a78a2ab/?
